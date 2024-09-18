@@ -6,6 +6,10 @@ sites:
   - name: BeansHosting Website
     url: https://beanshosting.net
     icon: https://icon.horse/icon/beanshosting.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Nodo 1 (Miami, USA)
     check: "tcp-ping"
     url: $NODE_1_USA_IP
