@@ -14,7 +14,6 @@ sites:
     check: "tcp-ping"
     url: $NODE_1_USA_IP
   - name: Dedicate Node 1 (Miami, USA)
-    check: "tcp-ping"
     url: $DEDICATE_NODE_1_USA_IP
     
 status-website:
