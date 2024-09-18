@@ -4,19 +4,20 @@
     "url": "https://beanshosting.net",
     "icon": "https://icon.horse/icon/beanshosting.net",
     "slug": "beans-hosting-website",
-    "status": "down",
-    "uptime": "9.06%",
-    "uptimeDay": "9.06%",
-    "uptimeWeek": "9.06%",
-    "uptimeMonth": "9.06%",
-    "uptimeYear": "9.06%",
-    "time": 127,
-    "timeDay": 127,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "status": "up",
+    "uptime": "0.63%",
+    "uptimeDay": "0.63%",
+    "uptimeWeek": "0.63%",
+    "uptimeMonth": "0.63%",
+    "uptimeYear": "0.63%",
+    "time": 135,
+    "timeDay": 135,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-18": 3,
+      "2024-09-17": 5
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 44,
+    "timeDay": 44,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
     "dailyMinutesDown": {}
   }
 ]
