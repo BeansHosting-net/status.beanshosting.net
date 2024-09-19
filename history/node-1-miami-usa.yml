@@ -1,7 +1,7 @@
-url: $NODE_1_USA_IP
+url: $DEDICATE_NODE_1_USA_IP
 status: up
 code: 200
-responseTime: 23
-lastUpdated: 2024-09-18T23:26:35.178Z
+responseTime: 102
+lastUpdated: 2024-09-19T05:46:19.612Z
 startTime: 2024-09-18T00:05:50.858Z
 generator: Upptime <https://github.com/upptime/upptime>
