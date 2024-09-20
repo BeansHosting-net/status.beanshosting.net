@@ -10,9 +10,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: Beans Hosting Client and Payment Panel 
-    check: "tcp-ping"
-    url: $NODE_1_USA_IP
   - name: Node 1 (Miami, USA)
     url: $DEDICATE_NODE_1_USA_IP
     
