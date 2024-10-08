@@ -5,11 +5,11 @@
     "icon": "https://icon.horse/icon/beanshosting.net",
     "slug": "beans-hosting-website",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "97.43%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
     "time": 155,
     "timeDay": 161,
     "timeWeek": 116,
@@ -45,7 +45,7 @@
     "url": "https://fra1.beanshosting.net",
     "icon": "https://icons.duckduckgo.com/ip3/fra1.beanshosting.net.ico",
     "slug": "node-2-frankfurt-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2024-10-08": 0,
       "2024-09-20": 2
     }
   }
