@@ -5,15 +5,15 @@
     "icon": "https://icon.horse/icon/beanshosting.net",
     "slug": "beans-hosting-website",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.39%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "98.41%",
     "time": 149,
     "timeDay": 132,
     "timeWeek": 133,
-    "timeMonth": 142,
+    "timeMonth": 126,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2024-09-20": 684,
@@ -27,7 +27,7 @@
     "url": "$DEDICATE_NODE_1_USA_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-miami-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,9 +36,11 @@
     "time": 76,
     "timeDay": 46,
     "timeWeek": 74,
-    "timeMonth": 80,
+    "timeMonth": 81,
     "timeYear": 76,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "Node 2 (Frankfurt, USA)",
